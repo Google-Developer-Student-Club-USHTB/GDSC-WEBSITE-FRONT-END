@@ -24,9 +24,7 @@ export const getDataProjects = () => {
   return data.projects;
 };
 
-export const getDataTrustedBy = () => {
-  return data.trustedBy;
-};
+
 
 export const getDataQuestions = () => {
   return data.questions;

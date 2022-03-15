@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "google-display-bold" sans-serif;
+  src: url("./resources/fonts/GoogleSansDisplay-Bold-v1.27.ttf");
+}
+
+@font-face {
+  font-family: "google-display-regular", sans-serif;
+  src: url("./resources/fonts/GoogleSans-Regular-v1.27.ttf");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "google-display-bold", sans-serif !important;
+}
+
+p,
+span,
+div,
+article,
+aside,
+ul,
+li,
+table,
+thead,
+tbody,
+tr,
+th,
+td,
+input {
+  font-family: "google-display-regular", sans-serif !important;
+}
+
+.body-background-gray {
+  background-color: #f6f5f5 !important;
+}
+
+.text-gray {
+  color: #474646 !important;
+}
+
+.text-blue {
+  color: #4285f4 !important;
+}
+
+.text-green {
+  color: #0f9d58 !important;
+}
+
+.text-orange {
+  color: #fbbc04 !important;
+}
+
+.text-red {
+  color: #ea4335 !important;
+}
+
+.bg-gray {
+  background-color: #474646 !important;
+}
+.bg-blue {
+  background-color: #4285f4 !important;
+}
+.bg-green {
+  background-color: #0f9d58 !important;
+}
+.bg-orange {
+  background-color: #fbbc04 !important;
+}
+.bg-red {
+  background-color: #ea4335 !important;
+}

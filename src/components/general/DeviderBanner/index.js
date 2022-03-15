@@ -1,5 +1,7 @@
 import "./style.css";
-const DeviderBanner = () => {
+import { getImage } from "../../../api/landingPage/getImges";
+const DeviderBanner = (props) => {
+  const { devider,title } = props;
   return <div>Devider Banner</div>;
 };
 
