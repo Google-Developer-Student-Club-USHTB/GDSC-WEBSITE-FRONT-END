@@ -93,7 +93,7 @@ export const events = [
 export const membersOfTheMonth = [
   {
     id: 1,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberOne"),
     firstName: "Nanon",
     lastName: "Rentenbeck",
     role: "Construction Manager",
@@ -102,7 +102,7 @@ export const membersOfTheMonth = [
   },
   {
     id: 2,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberTwo"),
     firstName: "Roda",
     lastName: "Worssam",
     role: "Construction Foreman",
@@ -111,7 +111,7 @@ export const membersOfTheMonth = [
   },
   {
     id: 3,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberThree"),
     firstName: "Ev",
     lastName: "Lakey",
     role: "Construction Expeditor",
@@ -120,7 +120,7 @@ export const membersOfTheMonth = [
   },
   {
     id: 4,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberFour"),
     firstName: "Dahlia",
     lastName: "Cavill",
     role: "Estimator",
@@ -129,7 +129,7 @@ export const membersOfTheMonth = [
   },
   {
     id: 5,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberOne"),
     firstName: "Diana",
     lastName: "Klulisek",
     role: "Surveyor",
@@ -138,7 +138,7 @@ export const membersOfTheMonth = [
   },
   {
     id: 6,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberTwo"),
     firstName: "Kimble",
     lastName: "Brownsmith",
     role: "Project Manager",
@@ -147,7 +147,7 @@ export const membersOfTheMonth = [
   },
   {
     id: 7,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberThree"),
     firstName: "Jude",
     lastName: "Stean",
     role: "Architect",
@@ -156,7 +156,7 @@ export const membersOfTheMonth = [
   },
   {
     id: 8,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberFour"),
     firstName: "Margarethe",
     lastName: "Moran",
     role: "Engineer",
@@ -165,7 +165,7 @@ export const membersOfTheMonth = [
   },
   {
     id: 9,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberOne"),
     firstName: "Blondell",
     lastName: "Izkovici",
     role: "Construction Foreman",
@@ -174,7 +174,7 @@ export const membersOfTheMonth = [
   },
   {
     id: 10,
-    imageUrl: getImage("imgMember"),
+    imageUrl: getImage("imgMemberTwo"),
     firstName: "Petr",
     lastName: "Binns",
     role: "Subcontractor",

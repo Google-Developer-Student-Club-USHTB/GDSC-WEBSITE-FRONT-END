@@ -16,7 +16,10 @@ import imgDeviderTeam from "../../resources/images/deviderBanner/bg-our-team.png
 import imgEventLhc from "../../resources/images/events/local-hack-day.png";
 import imgEventHc from "../../resources/images/events/hash-code.png";
 import imgEventKs from "../../resources/images/events/kick-start.png";
-import imgMember from "../../resources/images/team/pic-rec.png";
+import imgMemberOne from "../../resources/images/team/pic-rec.png";
+import imgMemberTwo from "../../resources/images/team/pic-rec-2.png";
+import imgMemberThree from "../../resources/images/team/pic-rec3.png";
+import imgMemberFour from "../../resources/images/team/pic-rec4.png";
 import imgProject from "../../resources/images/projects/mobile-dev-project.png";
 import imgTrustedBy from "../../resources/images/trustedBy/trustedBy.png";
 import imgContactUs from "../../resources/images/constactUs/pic-contact-us.png";
@@ -90,8 +93,14 @@ export const getImage = (image) => {
       return imgEventHc;
     case "imgEventKs":
       return imgEventKs;
-    case "imgMember":
-      return imgMember;
+    case "imgMemberOne":
+      return imgMemberOne;
+    case "imgMemberTwo":
+      return imgMemberTwo;
+    case "imgMemberThree":
+      return imgMemberThree;
+    case "imgMemberFour":
+      return imgMemberFour;
     case "imgProject":
       return imgProject;
     case "imgTrustedBy":
