@@ -20,6 +20,7 @@ import "./style.css";
 import { getImage } from "../../../api/landingPage/getImges";
 const DeviderBanner = (props) => {
   const { devider, title } = props;
+  console.log("Devider image:" + devider + "/Devider title" + title);
   return <div>Devider Banner</div>;
 };
 

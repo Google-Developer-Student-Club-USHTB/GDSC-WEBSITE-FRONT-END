@@ -1,24 +1,20 @@
 import { getImage } from "../api/landingPage/getImges";
 
-export const aboutGdSc = [
-  {
-    id: 1,
-    title: "What is Google Developer Student Clubs ",
-    description:
-      "Developer Student Clubs are university-based community groups that help student developers learn together and work with their communities to solve real-life problems.",
-  },
-];
+export const aboutGdSc =
+  "Developer Student Clubs are university-based community groups that help student developers learn together and work with their communities to solve real-life problems.";
 
 export const aboutGdscUsthb = [
   {
     id: 1,
-    title: "What is Gdsc usthb",
-    slideOne:
-      "Google Developers Students Club USTHB is a scientiŕc club with a local community related to the University of Science and Technology of Houari Boumediene in Algiers, Algeria. It is a fragment of the Google Developer Student Clubs program with communities that are scattered all around the world",
-    slideTwo:
-      "Google Developers Students Club USTHB provides students the right environment and resources to develop themselves via many activities like events, talks, podcasts, competitions, and of course projects !!!",
-    slideThree:
-      "As a member, you will get a lot of experience when it comes to Google technologies, solving real-life problems, and developing many handy skills which will help you after you graduate. So what are you waiting for? join us.",
+    text: "Google Developers Students Club USTHB is a scientiŕc club with a local community related to the University of Science and Technology of Houari Boumediene in Algiers, Algeria. It is a fragment of the Google Developer Student Clubs program with communities that are scattered all around the world",
+  },
+  {
+    id: 2,
+    text: "Google Developers Students Club USTHB provides students the right environment and resources to develop themselves via many activities like events, talks, podcasts, competitions, and of course projects !!!",
+  },
+  {
+    id: 3,
+    text: "As a member, you will get a lot of experience when it comes to Google technologies, solving real-life problems, and developing many handy skills which will help you after you graduate. So what are you waiting for? join us.",
   },
 ];
 
