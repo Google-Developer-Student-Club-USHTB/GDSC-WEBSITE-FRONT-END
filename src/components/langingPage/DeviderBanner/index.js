@@ -17,7 +17,7 @@
  * The second prop is title wich is the text shown in the devider for example our events or our projects..
  */
 import "./style.css";
-import { getImage } from "../../../api/landingPage/getImges";
+import { getImage } from "../../../helpers/getImges";
 const DeviderBanner = (props) => {
   const { devider, title } = props;
   console.log("Devider image:" + devider + "/Devider title" + title);

@@ -1,3 +1,6 @@
+/**
+ *  This the main file of the ui of the Our projects section
+ */
 import "./style.css";
 import { getDataProjects } from "../../../api/landingPage";
 import ProjectItem from "./ProjectItem";

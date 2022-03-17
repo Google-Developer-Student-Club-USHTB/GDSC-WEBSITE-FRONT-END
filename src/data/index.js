@@ -1,8 +1,10 @@
-import { getImage } from "../api/landingPage/getImges";
+import { getImage } from "../helpers/getImges";
 
+/* This is the about gdsc data */
 export const aboutGdSc =
   "Developer Student Clubs are university-based community groups that help student developers learn together and work with their communities to solve real-life problems.";
 
+/* This is the about gdsc usthb data*/
 export const aboutGdscUsthb = [
   {
     id: 1,
@@ -18,6 +20,7 @@ export const aboutGdscUsthb = [
   },
 ];
 
+/* This the fields of work data */
 export const fieldsOfWork = [
   {
     id: 1,
@@ -56,6 +59,7 @@ export const fieldsOfWork = [
   },
 ];
 
+/*This is our events data */
 export const events = [
   {
     id: 1,
@@ -86,6 +90,7 @@ export const events = [
   },
 ];
 
+/* This is member of the months data */
 export const membersOfTheMonth = [
   {
     id: 1,
@@ -179,6 +184,7 @@ export const membersOfTheMonth = [
   },
 ];
 
+/* This our projects data */
 export const projects = [
   {
     id: 1,
@@ -200,6 +206,7 @@ export const projects = [
   },
 ];
 
+/* This QandA data */
 export const questions = [
   {
     id: 1,

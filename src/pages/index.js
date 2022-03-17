@@ -17,7 +17,6 @@ export const MainPage = () => {
   return (
     <>
       <NavigationBar />
-
       <HeroSection />
       <DeviderBanner devider="" title="About us" />
       <AboutGdsc />

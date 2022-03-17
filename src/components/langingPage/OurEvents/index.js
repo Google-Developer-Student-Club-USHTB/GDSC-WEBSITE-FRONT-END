@@ -1,3 +1,6 @@
+/**
+ *  This the main file of the ui of the Our events section
+ */
 import "./style.css";
 import { getDataEvents } from "../../../api/landingPage";
 import EventItem from "./EventItem";

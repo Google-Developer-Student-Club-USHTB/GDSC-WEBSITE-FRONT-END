@@ -1,3 +1,6 @@
+/**
+ *  This the main file of the ui of the QandA section
+ */
 import "./style.css";
 import { getDataQuestions } from "../../../api/landingPage";
 import QuestionItem from "./QuestionItem";

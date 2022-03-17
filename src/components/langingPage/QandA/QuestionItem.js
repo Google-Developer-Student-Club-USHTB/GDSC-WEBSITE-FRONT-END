@@ -1,3 +1,6 @@
+/**
+ * Here you can code a single question item or accordion item
+ */
 import React from "react";
 import "./style.css";
 

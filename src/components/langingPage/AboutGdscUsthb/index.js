@@ -1,3 +1,6 @@
+/**
+ *  This the main file of the ui of the about gdsc usthb section
+ */
 import "./style.css";
 import { getDataAboutGdscUsthb } from "../../../api/landingPage";
 import GdscUsthbItem from "./GdscUsthbItem";
